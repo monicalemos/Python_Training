@@ -1,4 +1,1 @@
-First Line
-Second LineThird Line
-Third Line
-Third Line
+Write a test line
