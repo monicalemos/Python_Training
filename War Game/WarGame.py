@@ -5,7 +5,7 @@ from Deck import Deck
 from Player import Player
 
 from datetime import date
-from GameException import GameException
+from WarGameException import GameException
 
 class Game:
     def __init__(self, date, player1, player2):

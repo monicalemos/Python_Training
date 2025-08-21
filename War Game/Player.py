@@ -2,7 +2,7 @@
 Player will have a name and a hand of cards
 """
 from Deck import Deck
-from GameException import GameException
+from WarGameException import GameException
 
 class Player:
 
